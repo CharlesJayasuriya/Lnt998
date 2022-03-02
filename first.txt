@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 hai i am jayauriya , from tamil nadu
 --------------------------------
 This is done in fix branch
+=======
+hai i am jayauriya ,
+ from tamil nadu
+------------------------------------
+An apple a day keeps doctor away
+cat has 9 lives 
+war going on russia and ukraine 
+>>>>>>> branch-1
